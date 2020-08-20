@@ -1,0 +1,34 @@
+.google-map {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.city-marker {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  background: #f44336;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  position: "absolute";
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.cluster-icon {
+  color: white;
+  background: #3f50b5;
+  border-radius: 100%;
+  font-weight: 500;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+}
