@@ -1,8 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Summary
+
+This project is built in React using TypeScript. It demonstrates the ability to render thousands of markers on a Google Map component as well as how to manage custom markers individually.
+
+## Technology
+
+The Google Map in React is provided using [google-map-react](https://github.com/google-map-react/google-map-react) and the clustering service is provided by [markerclustererplus](https://github.com/googlemaps/v3-utility-library/tree/master/packages/markerclustererplus).
+
+## Data
 
 Data for this project was suplied by [Simple Maps](https://simplemaps.com/data/world-cities)
 
+# How to Run
+
+- Clone the project from GitHub
+- Run scripts
+
 ## Scripts
+
+### `npm install`
+
+Installs the necessary libraries for the project
 
 ### `npm start`
 
