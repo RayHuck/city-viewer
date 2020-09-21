@@ -1,6 +1,6 @@
 # Summary
 
-This project is built in React using TypeScript. It demonstrates the ability to render thousands of markers on a Google Map component as well as how to manage custom markers individually.
+View the project on [GitHub Pages](https://rayhuck.github.io/city-viewer/)! This project is built in React using TypeScript. It demonstrates the ability to render thousands of markers on a Google Map component as well as how to manage custom markers individually.
 
 ## Technology
 
